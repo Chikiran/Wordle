@@ -44,7 +44,7 @@ int main() {
             << "  - **Green**: Correct letter and position.\n"
             << "  - **Yellow**: Correct letter, wrong position.\n"
             << "  - **White**: Incorrect letter.\n"
-            << "6. Options: During guessing, enter ‘D’ to change difficulty, or ‘N’ for a new word  \n"
+            << "6. Options: During guessing, enter â€˜Dâ€™ to change difficulty, or â€˜Nâ€™ for a new word  \n"
             << "7. Win: Game continues until you guess correctly.\n";
 
             system("pause");
